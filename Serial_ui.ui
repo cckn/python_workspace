@@ -4628,7 +4628,7 @@ color:grey</string>
          <item>
           <widget class="QLineEdit" name="lineEdit_4">
            <property name="text">
-            <string>at</string>
+            <string/>
            </property>
           </widget>
          </item>
